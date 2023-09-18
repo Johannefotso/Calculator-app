@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(181, 181, 236);
+}
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+.screen {
+    background-color: rgb(211, 209, 209);
+    border: solid black 2px ;
+    color: white;
+    font-size: medium;
+    width: 100%;
+    cursor: default;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 10px;
+}
